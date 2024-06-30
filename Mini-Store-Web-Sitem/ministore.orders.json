@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65855c0bf688481f7805ab77"
+  },
+  "ad": "fatih",
+  "soyad": "rasim",
+  "telefon": "proje",
+  "adres": "proje ödevi deneme veritabanı ",
+  "krediKartiBilgileri": {
+    "kartNumarasi": "5478 5478 5478 5478 ",
+    "sonKullanimTarihi": "11/23",
+    "guvenlikKodu": "024"
+  },
+  "urunler": [],
+  "__v": 0
+}]
